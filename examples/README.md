@@ -1,7 +1,7 @@
 ## Three examples for Alpine high throughput computing primer
 
 ### Python script used for all three examples:
-* cars_mpg.py  (ingests arguments and processes into results)
+* `cars_mpg.py`  (ingests arguments and processes into results)
 
 ### Example 1 files (Job Array)
 * `cars_mpg_array.sh`   (job script)
